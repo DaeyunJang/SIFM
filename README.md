@@ -1,4 +1,4 @@
-<span style="color:red"> This project has been moved to [https://github.com/DaeyunJang/Hyper-Redundant-Manipulator](https://github.com/DaeyunJang/Hyper-Redundant-Manipulator). </span>
+> ⚠️ **Note:** This project has been moved to [https://github.com/DaeyunJang/Hyper-Redundant-Manipulator](https://github.com/DaeyunJang/Hyper-Redundant-Manipulator).
 
 # SIFM
 Surgical Instruments Force Measurement on ROS2
